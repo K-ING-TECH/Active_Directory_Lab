@@ -10,6 +10,11 @@ Welcome! In this guide, we'll set up an Active Directory lab environment. We’l
 - Oracle VM VirtualBox installed
 - Windows Server ISO
 - Basic networking and virtualization knowledge
+  
+# Project Overview
+<img src="https://i.imgur.com/1gsZBN1.png" width="600" alt="Project Overview">
+
+
 
 # Step 1: Create a New Virtual Machine
 1. **Open Oracle VM VirtualBox**.
